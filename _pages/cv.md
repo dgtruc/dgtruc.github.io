@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Hanoi University of Science and Technology, 2019
-* M.S. in Electrical Engineering, Hanoi University of Science and Technology, 2021
-* Unemployed, 2021
+* 2014 - 2019: B.S. in Electrical Engineering, Hanoi University of Science and Technology, Vietnam
+* 2019 - 2021: M.S. in Electrical Engineering, Hanoi University of Science and Technology, Vietnam
+* 2021 - Present: Unemployed
 
 Experience
 ======
