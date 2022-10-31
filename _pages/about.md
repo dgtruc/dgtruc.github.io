@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello world.
+Hello world. I'm Truc Duong from Quang Minh.
